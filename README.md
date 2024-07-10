@@ -1,4 +1,4 @@
-# How-to-configure-Network-Settings
+# How-to-configure-Network-Settings-in-Windows
 
 ## Objectives:
 1.	Identify and configure network settings in Windows.
